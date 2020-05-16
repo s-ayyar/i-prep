@@ -1,15 +1,11 @@
 # Code repo under Snippets:
-
-trying this.  
-anytime.
-
 - linqpadv5 - bucket for linqpad v5 snippets.
 - linqpadv6 - bucket for linqpad v6 snippets.
 - powershell - bucket for powershell snippets.
 
 # Preparation Topics / Resources
-## [tools](/tools/tools.md) - Contains software tools needed to use "prepare".  
-- [healthdomain](healthdomain/healthdomain.md)  
+[tools](/tools/tools.md) - Contains software tools needed to use "prepare".  
+- [healthdomain](healthdomain/healthdomain.md)
 - [bookmarks](bookmarks/bookmarks.md)
 - [datastructures](datastructures/datastructures.md)
 - [architecturepatterns](architecturepatterns/architecturepatterns.md)
