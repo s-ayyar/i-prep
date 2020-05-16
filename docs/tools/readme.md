@@ -4,68 +4,69 @@ Neat trick to get the list of installed extensions of VS Code:
 Open powershell prompt and run the following command: code --list-extensions | % { "code --install-extension $_" }
 
 The extensions I use are listed below: TO enable AzureDevops integration (check-in/check-out); installing ms-vsts.team is a MUST.
-code --install-extension abusaidm.html-snippets
-code --install-extension alefragnani.Bookmarks
-code --install-extension alefragnani.project-manager
-code --install-extension alefragnani.read-only-indicator
-code --install-extension andyyaldoo.vscode-json
-code --install-extension azemoh.one-monokai
-code --install-extension christian-kohler.npm-intellisense
-code --install-extension christian-kohler.path-intellisense
-code --install-extension chrmarti.regex
-code --install-extension CoenraadS.bracket-pair-colorizer-2
-code --install-extension dbaeumer.vscode-eslint
-code --install-extension donjayamanne.jquerysnippets
-code --install-extension dracula-theme.theme-dracula
-code --install-extension eamodio.gitlens
-code --install-extension ed-elliott.azure-arm-template-helper
-code --install-extension eg2.vscode-npm-script
-code --install-extension esbenp.prettier-vscode
-code --install-extension fabiospampinato.vscode-terminals
-code --install-extension formulahendry.auto-close-tag
-code --install-extension formulahendry.auto-rename-tag
-code --install-extension formulahendry.code-runner
-code --install-extension Gruntfuggly.todo-tree
-code --install-extension herrherrmann.angular-bootstrap
-code --install-extension HookyQR.beautify
-code --install-extension jasonnutter.search-node-modules
-code --install-extension jchannon.csharpextensions
-code --install-extension johnpapa.Angular2
-code --install-extension jrebocho.vscode-random
-code --install-extension leizongmin.node-module-intellisense
-code --install-extension Mikael.Angular-BeastCode
-code --install-extension ms-azure-devops.azure-pipelines
-code --install-extension ms-azuretools.vscode-azureappservice
-code --install-extension ms-azuretools.vscode-azurefunctions
-code --install-extension ms-azuretools.vscode-azureresourcegroups
-code --install-extension ms-azuretools.vscode-azurestorage
-code --install-extension ms-azuretools.vscode-azurevirtualmachines
-code --install-extension ms-azuretools.vscode-cosmosdb
-code --install-extension ms-azuretools.vscode-docker
-code --install-extension ms-dotnettools.csharp
-code --install-extension ms-dotnettools.vscode-dotnet-runtime
-code --install-extension ms-python.python
-code --install-extension ms-vscode-remote.remote-wsl
-code --install-extension ms-vscode.azure-account
-code --install-extension ms-vscode.azurecli
-code --install-extension ms-vscode.powershell
-code --install-extension ms-vscode.vscode-node-azure-pack
-code --install-extension ms-vsts.team
-code --install-extension msazurermtools.azurerm-vscode-tools
-code --install-extension msjsdiag.debugger-for-chrome
-code --install-extension PKief.material-icon-theme
-code --install-extension RoscoP.ActiveFileInStatusBar
-code --install-extension samcogan.arm-snippets
-code --install-extension sdras.night-owl
-code --install-extension shardulm94.trailing-spaces
-code --install-extension slevesque.vscode-hexdump
-code --install-extension spywhere.guides
-code --install-extension techer.open-in-browser
-code --install-extension vscode-icons-team.vscode-icons
-code --install-extension waderyan.nodejs-extension-pack
-code --install-extension xabikos.JavaScriptSnippets
-code --install-extension zhuangtongfa.material-theme
-code --install-extension Zignd.html-css-class-completion
+- code --install-extension abusaidm.html-snippets
+- code --install-extension alefragnani.Bookmarks
+- code --install-extension alefragnani.project-manager
+- code --install-extension alefragnani.read-only-indicator
+- code --install-extension andyyaldoo.vscode-json
+- code --install-extension azemoh.one-monokai
+- code --install-extension christian-kohler.npm-intellisense
+- code --install-extension christian-kohler.path-intellisense
+- code --install-extension chrmarti.regex
+- code --install-extension CoenraadS.bracket-pair-colorizer-2
+- code --install-extension dbaeumer.vscode-eslint
+- code --install-extension docsmsft.docs-markdown
+- code --install-extension donjayamanne.jquerysnippets
+- code --install-extension dracula-theme.theme-dracula
+- code --install-extension eamodio.gitlens
+- code --install-extension ed-elliott.azure-arm-template-helper
+- code --install-extension eg2.vscode-npm-script
+- code --install-extension esbenp.prettier-vscode
+- code --install-extension fabiospampinato.vscode-terminals
+- code --install-extension formulahendry.auto-close-tag
+- code --install-extension formulahendry.auto-rename-tag
+- code --install-extension formulahendry.code-runner
+- code --install-extension Gruntfuggly.todo-tree
+- code --install-extension herrherrmann.angular-bootstrap
+- code --install-extension HookyQR.beautify
+- code --install-extension jasonnutter.search-node-modules
+- code --install-extension jchannon.csharpextensions
+- code --install-extension johnpapa.Angular2
+- code --install-extension jrebocho.vscode-random
+- code --install-extension leizongmin.node-module-intellisense
+- code --install-extension Mikael.Angular-BeastCode
+- code --install-extension ms-azure-devops.azure-pipelines
+- code --install-extension ms-azuretools.vscode-azureappservice
+- code --install-extension ms-azuretools.vscode-azurefunctions
+- code --install-extension ms-azuretools.vscode-azureresourcegroups
+- code --install-extension ms-azuretools.vscode-azurestorage
+- code --install-extension ms-azuretools.vscode-azurevirtualmachines
+- code --install-extension ms-azuretools.vscode-cosmosdb
+- code --install-extension ms-azuretools.vscode-docker
+- code --install-extension ms-dotnettools.csharp
+- code --install-extension ms-dotnettools.vscode-dotnet-runtime
+- code --install-extension ms-python.python
+- code --install-extension ms-vscode-remote.remote-wsl
+- code --install-extension ms-vscode.azure-account
+- code --install-extension ms-vscode.azurecli
+- code --install-extension ms-vscode.powershell
+- code --install-extension ms-vscode.vscode-node-azure-pack
+- code --install-extension ms-vsts.team
+- code --install-extension msazurermtools.azurerm-vscode-tools
+- code --install-extension msjsdiag.debugger-for-chrome
+- code --install-extension PKief.material-icon-theme
+- code --install-extension RoscoP.ActiveFileInStatusBar
+- code --install-extension samcogan.arm-snippets
+- code --install-extension sdras.night-owl
+- code --install-extension shardulm94.trailing-spaces
+- code --install-extension slevesque.vscode-hexdump
+- code --install-extension spywhere.guides
+- code --install-extension techer.open-in-browser
+- code --install-extension vscode-icons-team.vscode-icons
+- code --install-extension waderyan.nodejs-extension-pack
+- code --install-extension xabikos.JavaScriptSnippets
+- code --install-extension zhuangtongfa.material-theme
+- code --install-extension Zignd.html-css-class-completion
 
 - Powershell v5.1 (Note powershell core is in works https://github.com/PowerShell/Powershell)
 
