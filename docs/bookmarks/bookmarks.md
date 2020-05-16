@@ -20,12 +20,12 @@
     <A HREF="https://dotnetcodr.com/architecture-and-patterns/" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Architecture and patterns   Exercises in .NET with Andras Nemes</A>
     <A HREF="https://tylermcginnis.com/arrow-functions/" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Arrow Functions in JavaScript</A>
     <A HREF="https://tylermcginnis.com/async-javascript-from-callbacks-to-promises-to-async-await/" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Async JavaScript  From Callbacks, to Promises, to Async Await</A>
-    <A HREF="https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/?WT.mc_id=AzureAdmin_learning_path_azurefundamentals-infographic-wwl" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Azure fundamentals learning path - Learn   Microsoft Docs</A>
-    <A HREF="https://docs.microsoft.com/en-us/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Build RESTful APIs with ASP.NET Web API - ASP.NET 4.x   Microsoft Docs</A>
+    <A HREF="https://docs.microsoft.com/learn/paths/azure-fundamentals/?WT.mc_id=AzureAdmin_learning_path_azurefundamentals-infographic-wwl" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Azure fundamentals learning path - Learn   Microsoft Docs</A>
+    <A HREF="https://docs.microsoft.com/aspnet/web-api/overview/older-versions/build-restful-apis-with-aspnet-web-api" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Build RESTful APIs with ASP.NET Web API - ASP.NET 4.x   Microsoft Docs</A>
     <A HREF="https://dotnetcodr.com/c-language-features/" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">C# language features   Exercises in .NET with Andras Nemes</A>
     <A HREF="https://michaelscodingspot.com/cache-implementations-in-csharp-net/" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Cache Implementations in C# .NET - Michael&#39;s Coding Spot</A>
     <A HREF="https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Caching Strategies and How to Choose the Right One · CodeAhoy</A>
-    <A HREF="https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Caching guidance - Best practices for cloud applications   Microsoft Docs</A>
+    <A HREF="https://docs.microsoft.com/azure/architecture/best-practices/caching" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Caching guidance - Best practices for cloud applications   Microsoft Docs</A>
     <A HREF="http://callbackhell.com/" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Callback Hell</A>
     <A HREF="https://www.c-sharpcorner.com/article/compute-sha256-hash-in-c-sharp/" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Compute SHA256 Hash In C#</A>
     <A HREF="https://codeburst.io/decorate-your-code-with-typescript-decorators-5be4a4ffecb4" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Decorate your code with TypeScript decorators - codeburst</A>
@@ -73,7 +73,7 @@
     <A HREF="https://platform.html5.org/" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">The Web Platform  Browser technologies</A>
     <A HREF="https://adamsilver.io/articles/the-disadvantages-of-single-page-applications/" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">The disadvantages of single page applications by Adam Silver   Designer, London, UK</A>
     <A HREF="https://medium.com/tag/api" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">The most insightful stories about API – Medium</A>
-    <A HREF="https://docs.microsoft.com/en-us/azure/architecture/patterns/throttling" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Throttling pattern - Cloud Design Patterns   Microsoft Docs</A>
+    <A HREF="https://docs.microsoft.com/azure/architecture/patterns/throttling" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Throttling pattern - Cloud Design Patterns   Microsoft Docs</A>
     <A HREF="https://hackr.io/blog/angular-interview-questions" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Top 50 Angular Interview Questions &amp; Answers [Updated]</A>
     <A HREF="https://tylermcginnis.com/blog/2" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Tutorials on JavaScript, React, Vue, GraphQL, and more</A>
     <A HREF="https://www.youtube.com/user/irideabanana/videos" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">Tyler McGinnis - YouTube</A>
