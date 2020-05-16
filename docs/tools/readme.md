@@ -67,7 +67,11 @@ code --install-extension xabikos.JavaScriptSnippets
 code --install-extension zhuangtongfa.material-theme
 code --install-extension Zignd.html-css-class-completion
 
-- Powershell
+- Powershell v5.1 (Note powershell core is in works https://github.com/PowerShell/Powershell)
+
+- Az powershell module v3.5.0 (if you intend to use azure powershell functions)
+Check installed version from powershell using command: Get-InstalledModule -Name Az -AllVersions | Select-Object -Property Name, Version
+Installing latest Az powershell module: Install-Module -Name Az -AllowClobber -Force
 
 - LINQPad (Free / Paid version)
 LINQPad v5 supports >NET Framework 4.6/4.7/4.8
