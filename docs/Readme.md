@@ -6,7 +6,7 @@
 
 # Preparation Topics / Resources
 ## [tools](/tools/tools.md) - Contains software tools needed to use "prepare".  
-- [healthdomain](healthdomain/healthdomain.md)
+- [healthdomain](healthdomain/healthdomain.md)  
 - [bookmarks](bookmarks/bookmarks.md)
 - [datastructures](datastructures/datastructures.md)
 - [architecturepatterns](architecturepatterns/architecturepatterns.md)
