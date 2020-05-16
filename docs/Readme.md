@@ -1,4 +1,4 @@
-Read me document for preparation.
+#Read me document for preparation.
 
 linqpad - bucket for linqpad snippets.
 powershell - bucket for powershell snippets.
