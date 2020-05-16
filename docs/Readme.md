@@ -5,7 +5,7 @@
 - powershell - bucket for powershell snippets.
 
 # Preparation Topics / Resources
-## [tools](/tools/tools.md) - Contains software tools needed to use "prepare".
+## [tools](/tools/tools.md) - Contains software tools needed to use "prepare".  
 
 
 - [healthdomain](healthdomain/healthdomain.md)
