@@ -1,4 +1,4 @@
-# Code repo under Snippets:
+# Code repo under Snippets
 - linqpadv5 - bucket for linqpad v5 snippets.
 - linqpadv6 - bucket for linqpad v6 snippets.
 - powershell - bucket for powershell snippets.
