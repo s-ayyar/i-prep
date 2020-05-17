@@ -42,11 +42,8 @@ The extensions I use are listed below: TO enable AzureDevops integration (check-
 - code --install-extension chrmarti.regex
 - code --install-extension CoenraadS.bracket-pair-colorizer-2
 - code --install-extension dbaeumer.vscode-eslint
-
 - code --install-extension donjayamanne.jquerysnippets
 - code --install-extension dracula-theme.theme-dracula
-
-
 - code --install-extension eg2.vscode-npm-script
 - code --install-extension esbenp.prettier-vscode
 - code --install-extension fabiospampinato.vscode-terminals
@@ -62,7 +59,6 @@ The extensions I use are listed below: TO enable AzureDevops integration (check-
 - code --install-extension jrebocho.vscode-random
 - code --install-extension leizongmin.node-module-intellisense
 - code --install-extension Mikael.Angular-BeastCode
-
 - code --install-extension msjsdiag.debugger-for-chrome
 - code --install-extension PKief.material-icon-theme
 - code --install-extension RoscoP.ActiveFileInStatusBar
