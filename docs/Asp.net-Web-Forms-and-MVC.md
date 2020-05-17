@@ -1,7 +1,8 @@
-- What is the difference between Asp.net MVC and Web forms
+- What is the difference between Asp.net MVC and Web forms?
 - If you are staring a new project, which one you will use?
-- How do you use cache data in both Asp.net MVC and Web Forms
+- How do you use cache data in both Asp.net MVC and Web Forms?
 - How many ways you can store the Session data?
-- In Asp.net Web Forms, Create a Drop down with values 1-10. When user selects a particular number, you can create that many text boxes.
-- How do you improve the performance of asp.net web application
+- In Asp.net Web Forms, Create a Drop down with values 1-10. When user selects a particular number, you can create that many text boxes?
+- How do you improve the performance of asp.net web application?
 - How do you maintain session on both Asp.Net MVC and Web Forms?
+- Can you call a restful API from a MVC view?
