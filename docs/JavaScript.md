@@ -1,0 +1,2 @@
+- What is a Call back function?
+- What are promises?
