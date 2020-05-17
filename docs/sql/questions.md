@@ -1,31 +1,12 @@
 | [tools](../tools/tools.md) > [healthdomain](../healthdomain/healthdomain.md) > [bookmarks](../bookmarks/bookmarks.md) > [ds_algo_program](../ds_algo_program/ds_algo_program.md) > [architecturepatterns](../architecturepatterns/architecturepatterns.md) > [csharpdotnet](../csharpdotnet/csharpdotnet.md) > [webdev](../webdev/webdev.md) > [azure](../azure/azure.md) > [devops](../devops/devops.md) > [performance](../performance/performance.md) > [security](../security/security.md) > [services](../services/services.md) > [sql](../sql/sql.md) > [trending](../trending/trending.md) |
 | --- |
 
+# SQL Questions
 
-
-# C# .NET Topics
-
-[Questions](questions.md)
-
-- C#
-- ASP.Net MVC
-- MVVM
-- MVC
-- MVP
-- Parallel Programming
-- Async Programming
-- EntityFramework - code first, db first etc.
-- Threading
-- Concurrency issues
-- LINQ 
-- Generics
-- Boxing / unboxing 
-- Garbage collection
-- Unit testing framework - mocks stubs, unit, vs unit test etc.
-- Exception handling
-- .NET Core
-- Process vs thread 
-- Finalize vs dispose
-- Collections
-- Aync await
-- String manipulations
+- What is the difference between Clustered vs Non-Clustered Index?
+- How to do read data from file and copy it to database daily on scheduled time?
+- What is the difference between Temporary table vs Global temporary tables?
+- When do you use Clustered vs Non-Clustered Indexes
+- How do you log when a new record is inserted, updated or deleted?
+- How do you improve the performance of SQL Query?
+- How do you Identify the performance issue?
