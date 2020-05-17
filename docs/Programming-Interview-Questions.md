@@ -46,3 +46,12 @@ a2bbcddd
 **Output:**
 
 aabcccbcccd
+
+
+4. Here is the link 
+https://leetcode.com/problems/multiply-strings/
+
+Multiply big numbers inside a string, you can't use the Math library, should multiply by using 1 char at a time. 
+
+
+5. 
