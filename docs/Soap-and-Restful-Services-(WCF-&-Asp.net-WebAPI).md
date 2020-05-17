@@ -1,0 +1,3 @@
+- What is the difference between WCF and Asp.net Web API?
+- When do you use WCF vs Asp.net Web API?
+- How do you log each WCF API call?
