@@ -8,6 +8,11 @@ Neat trick to get the list of installed extensions of VS Code:
 Open powershell prompt and run the following command: code --list-extensions | % { "code --install-extension $_" }
 
 The extensions I use are listed below: TO enable AzureDevops integration (check-in/check-out); installing ms-vsts.team is a MUST.
+- code --install-extension ms-mssql.mssql
+- code --install-extension docsmsft.docs-markdown
+- code --install-extension eamodio.gitlens
+- code --install-extension ed-elliott.azure-arm-template-helper
+
 - code --install-extension abusaidm.html-snippets
 - code --install-extension alefragnani.Bookmarks
 - code --install-extension alefragnani.project-manager
@@ -19,11 +24,11 @@ The extensions I use are listed below: TO enable AzureDevops integration (check-
 - code --install-extension chrmarti.regex
 - code --install-extension CoenraadS.bracket-pair-colorizer-2
 - code --install-extension dbaeumer.vscode-eslint
-- code --install-extension docsmsft.docs-markdown
+
 - code --install-extension donjayamanne.jquerysnippets
 - code --install-extension dracula-theme.theme-dracula
-- code --install-extension eamodio.gitlens
-- code --install-extension ed-elliott.azure-arm-template-helper
+
+
 - code --install-extension eg2.vscode-npm-script
 - code --install-extension esbenp.prettier-vscode
 - code --install-extension fabiospampinato.vscode-terminals
