@@ -87,3 +87,5 @@ For most part LINQPad v5 will suffice. At times, LINQPad scripts of v5 won't run
 Recommend keeping LINQPAD v5 and v6 snippets separate.
 https://www.linqpad.net/Download.aspx
 LINQPad v5 / v6 run side by side.
+
+- SQL Server 2017 Developer Edition / SQL Server 2019 Developer Edition
