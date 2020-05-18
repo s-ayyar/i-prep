@@ -5,7 +5,7 @@
 
 - Bookmark links to various topics referred to during preparation:
     - <a href="https://yangshun.github.io/tech-interview-handbook/">Tech Interview Handbook - https://yangshun.github.io/tech-interview-handbook/</a>
-    - Performance best practices in C# - https://medium.com/@kevingosse/performance-best-practices-in-c-b85a47bdd93a
+    - <a href=“ https://medium.com/@kevingosse/performance-best-practices-in-c-b85a47bdd93a” >Performance best practices in C# -</a>
     - <A HREF="https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">10 Common Software Architectural Patterns in a nutshell</A>
     - <A HREF="https://arch.simplicable.com/arch/new/10-soa-design-patterns-every-architect-should-know" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">10 Soa Design Patterns Every Architect Should Know - Simplicable</A>
     - <A HREF="https://exploringjs.com/es6/ch_iteration.html" ADD_DATE="1588808614" LAST_MODIFIED="1588808614">21. Iterables and iterators</A>
