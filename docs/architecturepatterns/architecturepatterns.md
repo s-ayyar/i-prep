@@ -5,6 +5,7 @@
 
 [Questions](questions.md)
 
+- Identify Patterns within projects and know handful of them
 - SOLID principles
 - Dependency Inversion
 - Dependency Injection - Unity framework
@@ -13,6 +14,6 @@
 - Caching patterns - Cache Aside, Read Through, Write Through, Write Around. Write Back
 - Type ahead pattern (used in UI design), service proxy patterns
 - Builder pattern (easy ref: https://stakhov.pro/code-generation-with-net-5-builder-pattern/?utm_source=csharpdigest&utm_medium=email&utm_campaign=310)
-- Twelve Factor App (https://12factor.net/)
+- Twelve Factor App - Who Should Read: Any developer building applications which run as a service (https://12factor.net/)
 
-IDENTIFY THEM WITHIN PROJECTS YOU WORKED AND KNOW HANDFUL OF THEM 
+
