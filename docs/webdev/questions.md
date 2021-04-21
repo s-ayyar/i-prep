@@ -1,5 +1,4 @@
-| [tools](../tools/tools.md) > [healthdomain](../healthdomain/healthdomain.md) > [bookmarks](../bookmarks/bookmarks.md) > [ds_algo_program](../ds_algo_program/ds_algo_program.md) > [architecturepatterns](../architecturepatterns/architecturepatterns.md) > [csharpdotnet](../csharpdotnet/csharpdotnet.md) > [webdev](../webdev/webdev.md) > [azure](../azure/azure.md) > [devops](../devops/devops.md) > [performance](../performance/performance.md) > [security](../security/security.md) > [services](../services/services.md) > [sql](../sql/sql.md) > [trending](../trending/trending.md) |
-| --- |
+[!include[<navigation>](..\navigation.md)]
 
 # Web Dev Questions
 - What is a Call back function?
@@ -16,7 +15,6 @@
 - How do you improve the performance of asp.net web application?
 - How do you maintain session on both Asp.Net MVC and Web Forms?
 - Can you call a restful API from a MVC view?
-
 
 # Angular Questions
 
